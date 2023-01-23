@@ -1,2 +1,6 @@
 # BA-Task-1
-Scraping reviews , stars and dates they travelled using BeautifulSoup
+In this task we are provided with a website
+and using beautifulsoup we will scrape the 
+required data like customer reviews and the
+stars they have given to airlines and will provide 
+that data in the form of a csv filr
